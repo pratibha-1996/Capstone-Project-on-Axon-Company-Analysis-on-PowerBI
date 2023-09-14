@@ -5,6 +5,14 @@ The project contains a dataset which contains data regarding Axon company and de
 
 **Objective:** To contribute to the success of a business by utilising data analysis techniques, explicitly focusing on time series analysis, to provide valuable insights.
 
+Steps followed while making this project:
+
+1. Imported and integrated the data from MySQL database into PowerBI 
+
+2. Cleaned and transformed the data to make it ready for analysis.
+
+3. Build interactive dashboards and reports using PowerBI.It involves creating charts, graphs, and tables to visualize the data and **using DAX functions** to analyze the data.
+   
 •	**Calculation of Average days: **
 Avg days = IF(ISBLANK('classicmodels orders'[orderDate]) || ISBLANK('classicmodels orders'[shippedDate]),BLANK(),DATEDIFF('classicmodels orders'[orderDate],'classicmodels orders'[shippedDate], DAY))	
 
