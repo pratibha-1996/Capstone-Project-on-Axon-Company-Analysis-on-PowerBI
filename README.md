@@ -1,9 +1,9 @@
 # Capstone-Project-on-Credit-card-database
-The project contains a dataset which contains data regarding Axon company and details through a dashboard. This Project is part of Odin School Bootcamp.
+The project contains a dataset that contains data regarding Axon company and details through a dashboard. This Project is part of Odin School Bootcamp.https://github.com/pratibha-1996/Capstone-Project-on-Axon-Company-Analysis-on-PowerBI/blob/main/README.md
 
 **Analysis of Axon company’s dataset using Power BI**
 
-**Objective:** To contribute to the success of a business by utilising data analysis techniques, explicitly focusing on time series analysis, to provide valuable insights.
+**Objective:** To contribute to the success of a business by utilizing data analysis techniques, explicitly focusing on time series analysis, to provide valuable insights.
 
 Steps followed while making this project:
 
